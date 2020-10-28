@@ -26,7 +26,7 @@
 |LANGUAGE|Japanese|
 |MESSAGE VOICE| Alice、\[Polly\] Mizuki、\[Polly\] Takumiのいずれか|
 
-![設定画面 - Config](../assets/01-Config-say.png)
+![設定画面 - Config](../assets/01-Config-Say.png)
 
 `Transitions`タブではフローの接続先を設定・変更できます。今回、特に作業項目はありません。
 

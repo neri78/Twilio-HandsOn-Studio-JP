@@ -3,8 +3,8 @@
 この手順では、Twilio Studioを用いて新しいフローを作成する方法を学びます。
 
 ## 前提条件
-Twilioアカウントが必要になります。下記の記事を参考にアカウントを作成してください。
-[Twilioアカウントの作成方法](https://www.twilio.com/blog/how-to-create-twilio-account-jp)）
+Twilioアカウントが必要になります。下記の記事を参考にアカウントを作成してください。  
+[Twilioアカウントの作成方法](https://www.twilio.com/blog/how-to-create-twilio-account-jp)
 
 ## 1-1. Studioフローの新規作成
 
