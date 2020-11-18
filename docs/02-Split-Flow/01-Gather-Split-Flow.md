@@ -24,7 +24,7 @@
 
 ## 1-2. Splitウィジェットの追加
 
-`Split`ウィジェットを1つ追加し、`Greeting_Gather`ウィジェットの`User Pressed Keys`と接続します。
+`Split Based On...`ウィジェットを1つ追加し、`Greeting_Gather`ウィジェットの`User Pressed Keys`と接続します。
 
 ![Splitウィジェットの接続](../assets/02-Split.png)
 
