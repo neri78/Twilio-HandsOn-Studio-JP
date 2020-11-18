@@ -16,7 +16,7 @@
 |:----|:----|
 |WIDGET NAME| Greeting_Gather |
 |TEXT TO SAY| お電話ありがとうございます。営業部門にお問い合わせの場合は 1 を、マーケティング部門にお問い合わせの場合は2を押してください。当社のテーマソングをお聴きになる場合は何かおはなしください。|
-|STOP GATHERING AFTER|1|
+|STOP GATHERING AFTER （DIGITSのほう）|1|
 |LANGUAGE|Japanese|
 |MESSAGE VOICE| Alice、\[Polly\] Mizuki、\[Polly\] Takumiのいずれか|
 |SPEECH RECOGNITION LANGUAGE|Japanese (Japan)|
