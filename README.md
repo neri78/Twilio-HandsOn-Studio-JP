@@ -1,4 +1,7 @@
 # Twilio-HandsOn-Studio-JP
+
+![Studio HandsOn](docs/assets/studio-header.jpg)
+
 ノンコーディングでTwilioアプリケーションを構築できる[Twilio Studio](https://jp.twilio.com/ja/studio)の使い方を学ぶハンズオンです。
 
 ## 必要・推奨環境
