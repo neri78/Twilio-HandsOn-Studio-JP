@@ -12,4 +12,4 @@
 
 ## 次のハンズオン
 
-[ハンズオン: 高度な機能の活用](/docs/03-Studio-Advanced-Features/00-Overview.md)
+[ハンズオン: 高度な機能の活用](../03-Studio-Advanced-Features/00-Overview.md)

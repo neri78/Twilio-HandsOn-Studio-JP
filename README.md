@@ -10,6 +10,6 @@
 
 ## ハンズオン
 
-- [ハンズオン: Twilio Studioでコールフローを作成](/docs/01-Studio-Create-CallFlow/00-Overview.md)
-- [ハンズオン: 発信者の入力に合わせたフローの分岐](/docs/02-Split-Flow/00-Overview.md)
-- [ハンズオン: 高度な機能の活用](/docs/03-Studio-Advanced-Features/00-Overview.md)
+- [ハンズオン: Twilio Studioでコールフローを作成](docs/01-Studio-Create-CallFlow/00-Overview.md)
+- [ハンズオン: 発信者の入力に合わせたフローの分岐](docs/02-Split-Flow/00-Overview.md)
+- [ハンズオン: 高度な機能の活用](docs/03-Studio-Advanced-Features/00-Overview.md)
