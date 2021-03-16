@@ -35,7 +35,7 @@
 |:----|:----|
 |WIDGET NAME| Music |
 |SAY OR PLAY MESSAGE OR DIGITS|Play a Message|
-|URL OF AUDIO FILE|http://demo.twilio.com/docs/classic.mp3|
+|URL OF AUDIO FILE|https://api.twilio.com/cowbell.mp3|
 
 `Greeting_Gather`ウィジェットの`User Said Something`と接続。
 
