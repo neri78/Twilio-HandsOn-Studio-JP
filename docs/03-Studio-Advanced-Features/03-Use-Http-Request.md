@@ -36,7 +36,7 @@
 |設定項目|値|
 |:----|:----|
 |WIDGET NAME| Say_Advice|
-|TEXT TO PLAY| {{widgets.Ask_Advice.parsed.activity}}|
+|TEXT TO PLAY| \{\{widgets.Ask_Advice.parsed.activity\}\}|
 
 すべての設定をおえたのち、マーケティング部門へのフローを確かめてください。
 
