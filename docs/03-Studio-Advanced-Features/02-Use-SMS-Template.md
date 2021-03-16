@@ -12,7 +12,7 @@
 
 |設定項目|値|
 |:----|:----|
-|MESSAGE BODY| 今回は当社の{{flow.variables.channel}}にご連絡いただきましてありがとうございました。|
+|MESSAGE BODY| 今回は当社の\{\{flow.variables.channel\}\}にご連絡いただきましてありがとうございました。|
 
 ここで利用されている記法は[Liquit Template Language](https://jp.twilio.com/docs/studio/user-guide/liquid-template-language)と呼ばれており、実行時に動的な値を設定できます。
 
