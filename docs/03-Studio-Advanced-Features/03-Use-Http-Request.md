@@ -27,7 +27,7 @@
 ![http request](../assets/03-Http-Request.png)
 
 
-## 3-3. 取得した値をもとにSMSを送信する
+## 3-3. 取得した値をもとにアドバイスを再生送信する
 
 `Say/Play` ウィジェットをさらに追加し、`http_1`の`Success`に接続します。
 
