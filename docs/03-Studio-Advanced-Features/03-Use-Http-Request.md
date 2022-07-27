@@ -20,7 +20,7 @@
 |:----|:----|
 |WIDGET NAME| Ask_Advice|
 |REQUEST METHOD| GET|
-|REQUEST URL|https://www.boredapi.com/api/activity/|
+|REQUEST URL|http://www.boredapi.com/api/activity/|
 
 スクリーンショットも参考にしてください。
 
